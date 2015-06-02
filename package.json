@@ -1,0 +1,44 @@
+{
+  "name": "sort-strings",
+  "version": "0.0.1",
+  "description": "Sort an array of strings by string length",
+   "homepage": "sanketmaru.github.io",
+    
+    "bugs": {
+      "url": "sanketmaru/sort-strings/issues"
+  },
+  "author": {  "url": "sanketmaru.github.io"  ,  "name": "Sanket Maru"  ,  "email": "sanketmaru@gmail.com" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "sanketmaru/sort-strings"
+  },
+  "license": "MIT",
+  "files": [ 
+        "index.js"   ,
+        "cli.js" 
+  ],
+  "keywords": [
+    "sort-strings"  ,
+        "sort"  ,
+        "array"  ,
+        "strings"  ,
+        "length" 
+  ],
+  "dependencies": { 
+        "minimist": "^1.1.1" 
+  },
+  "devDependencies": { 
+        "mocha": "*" 
+       ,
+      "jshint-stylish": "^1.0.0" 
+  },
+  "scripts": { 
+      
+      
+       "test": "mocha" 
+  }  ,
+      "bin": {
+        "sort-strings": "cli.js"
+    } 
+}
