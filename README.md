@@ -1,4 +1,4 @@
-# sort-strings [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-url]][daviddm-image]
+# sort-strings [![NPM version][npm-image]][npm-url] [![Build Status](https://travis-ci.org/sanketmaru/sort-strings.svg)](https://travis-ci.org/sanketmaru/sort-strings)
 
 > Sort an array of strings by string length
 
